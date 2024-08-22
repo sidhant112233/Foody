@@ -240,6 +240,7 @@
                     <androidx.cardview.widget.CardView
                         android:layout_width="170dp"
                         android:layout_height="50dp"
+                        android:id="@+id/order"
                         android:layout_gravity="center"
                         android:backgroundTint="#FD4463"
                         app:cardCornerRadius="10dp">
